@@ -11,9 +11,12 @@ df = pd.read_csv(os.path.join(CWD, 'aac_shelter_outcomes.csv'), parse_dates=[
     'date_of_birth', 'datetime', 'monthyear',
 ])
 
-DROP_COLUMNS = ['age_upon_outcome', 'monthyear']
+df = df.drop(columns=['age_upon_outcome', 'monthyear'])
+df['sex'] = df['sex_upon_outcome'].apply(
+    lambda s: np.nan if pd.isna(s) else s.split(' ')[-1])
+df['neutered'] = df['sex_upon_outcome'].apply(
+    lambda s: np.nan if pd.isna(s) else ('Spayed' in s or 'Neutered' in s))
 
-df = df.drop(columns=DROP_COLUMNS)
 df.to_csv(os.path.join(CWD, 'clean_data.csv'), index=False)
 
 print("Done.")
