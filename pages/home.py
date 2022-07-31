@@ -12,8 +12,6 @@ import dash
 from dash import Dash, dcc, html, Input, Output, callback
 import dash_bootstrap_components as dbc
 
-dash.register_page(__name__, path='/')
-
 
 layout = html.Div([
     html.H1('This is the home page')

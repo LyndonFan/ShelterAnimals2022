@@ -12,14 +12,13 @@ import dash
 from dash import Dash, dcc, html, Input, Output, callback
 import dash_bootstrap_components as dbc
 
-
 CWD = os.path.dirname(os.path.abspath(__file__))
 
 original_df = pd.read_csv(os.path.join(CWD, '../data/clean_data.csv'),
                           parse_dates=['date_of_birth', 'datetime'])
 original_df = original_df.sort_values(by='datetime', ascending=False)
 
-dash.register_page(__name__)
+# dash.register_page(__name__)
 
 layout = html.Div([
     html.H1('Shelter Animal Outcomes'),
@@ -30,14 +29,14 @@ layout = html.Div([
         ],
             style={
             "display": "inline-block",
-            "width": "20%"
+            "width": "25%"
         }),
         html.Div(children=[
             html.H4(len(original_df.animal_id.unique())),
             html.P('distinct animals')
         ], style={
             "display": "inline-block",
-            "width": "20%"
+            "width": "25%"
         }),
         dcc.RadioItems(
             id='choose_unique_animals',
@@ -47,7 +46,7 @@ layout = html.Div([
             inline=True,
             style={
                 "display": "inline-block",
-                "width": "20%"
+                "width": "25%"
             },
         ),
         dcc.Checklist(
@@ -56,7 +55,7 @@ layout = html.Div([
             value=original_df.animal_type.unique(),
             style={
                 "display": "inline-block",
-                "width": "20%"
+                "width": "25%"
             },
         )
     ], style={
@@ -158,10 +157,15 @@ def get_outcome_type_graph(row_option):  # dummy argument
     temp['Month'] = temp.datetime.apply(
         lambda t: t.replace(day=1, hour=0, minute=0, second=0))
     temp['Visit'] = 1
-    print()
-    fig = px.area(
-        temp, x='Month', y='Visit', color='outcome_type', line_group='outcome_subtype'
-    )
+    has_error = True
+    while has_error:
+        try:
+            fig = px.area(
+                temp, x='Month', y='Visit', color='outcome_type', line_group='outcome_subtype'
+            )
+            has_error = False
+        except ValueError:
+            continue
     fig.update_layout(
         title='Outcome Types per Visits per Month',
         xaxis_title='Month',
@@ -213,7 +217,3 @@ def get_sex_type_graph(row_option):
         fig.update_layout(
             title='Distribution of Animals by Sex and Neuter Status')
     return fig
-
-
-if __name__ == '__main__':
-    app.run_server(debug=True)

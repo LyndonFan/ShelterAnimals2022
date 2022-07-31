@@ -20,12 +20,10 @@ from pages.sidebar import CONTENT_STYLE, sidebar
 
 CWD = os.path.dirname(os.path.abspath(__file__))
 
-
-app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], use_pages=True)
 app.config.suppress_callback_exceptions = True
 
 
-content = html.Div(dash.page_container, id="page-content", style=CONTENT_STYLE)
+content = html.Div(id="page-content", style=CONTENT_STYLE)
 
 app.layout = dbc.Container([
     dcc.Location(id="url"),
@@ -36,11 +34,11 @@ app.layout = dbc.Container([
 @app.callback(Output("page-content", "children"),
               [Input("url", "pathname")])
 def render_page_content(pathname):
-    if pathname in ["/", "/index"]:
-        return home
+    if pathname in ["/", "/home"]:
+        return home.layout
     elif pathname == "/board":
-        return board
-    return dbc.Jumbotron(
+        return board.layout
+    return dbc.Container(
         [
             html.H1("404: Not found", className="text-danger"),
             html.Hr(),
