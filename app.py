@@ -1,0 +1,8 @@
+import dash
+import dash_bootstrap_components as dbc
+
+# default bootstrap theme
+app = dash.Dash(__name__, external_stylesheets=[
+                dbc.themes.BOOTSTRAP], use_pages=True)
+
+server = app.server
