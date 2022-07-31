@@ -1,0 +1,335 @@
+age_upon_outcome,animal_id,animal_type,breed,color,date_of_birth,datetime,monthyear,name,outcome_subtype,outcome_type,sex_upon_outcome,age,puppy,dob_year,dob_month,dob_monthyear,outcome_month,outcome_year,outcome_weekday,outcome_hour,color1,color2
+2 months,A683716,Bird,chicken,brown/yellow,2014-05-14 00:00:00,2014-07-16 13:03:00,2014-07-16 13:03:00,,Partner,Transfer,Intact Female,63,True,2014,5,2014-07,7,2014,2,13,brown,yellow
+1 year,A666594,Bird,parakeet,green,2012-11-04 00:00:00,2013-11-10 16:36:00,2013-11-10 16:36:00,,Partner,Transfer,Intact Male,371,False,2012,11,2013-11,11,2013,6,16,green,
+2 years,A677677,Bird,bantam,white,2012-04-25 00:00:00,2014-04-29 11:29:00,2014-04-29 11:29:00,,,Adoption,Intact Male,734,False,2012,4,2014-04,4,2014,1,11,white,
+2 weeks,A680862,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+1 year,A674618,Bird,lark,brown/black,2013-03-15 00:00:00,2014-03-15 17:54:00,2014-03-15 17:54:00,,Suffering,Euthanasia,Unknown,365,True,2013,3,2014-03,3,2014,5,17,brown,black
+6 months,A687623,Bird,chicken,brown,2014-03-07 00:00:00,2014-09-18 10:17:00,2014-09-18 10:17:00,,Suffering,Euthanasia,Unknown,195,True,2014,3,2014-09,9,2014,3,10,brown,
+2 weeks,A680857,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+1 year,A694113,Bird,chicken,brown/black,2013-06-20 00:00:00,2014-12-23 00:00:00,2014-12-23 00:00:00,Rooster,Partner,Transfer,Intact Male,551,False,2013,6,2014-12,12,2014,1,0,brown,black
+2 weeks,A680861,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+3 weeks,A683414,Bird,sparrow,brown/black,2014-06-18 00:00:00,2014-07-10 16:43:00,2014-07-10 16:43:00,,Partner,Transfer,Unknown,22,True,2014,6,2014-07,7,2014,3,16,brown,black
+1 year,A690593,Bird,chicken,brown/white,2013-10-23 00:00:00,2014-10-29 11:56:00,2014-10-29 11:56:00,,Partner,Transfer,Intact Female,371,False,2013,10,2014-10,10,2014,2,11,brown,white
+4 months,A679700,Bird,parrot,green/white,2014-01-25 00:00:00,2014-05-30 18:24:00,2014-05-30 18:24:00,,,Adoption,Unknown,125,True,2014,1,2014-05,5,2014,4,18,green,white
+1 year,A686106,Bird,parrot,green,2013-08-16 00:00:00,2014-08-16 15:29:00,2014-08-16 15:29:00,Polly,Partner,Transfer,Intact Female,365,True,2013,8,2014-08,8,2014,5,15,green,
+1 year,A672940,Bird,chicken,red/black,2013-02-18 00:00:00,2014-03-03 12:16:00,2014-03-03 12:16:00,,,Adoption,Intact Male,378,False,2013,2,2014-03,3,2014,0,12,red,black
+2 weeks,A680863,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+3 weeks,A674004,Bird,duck,yellow,2014-02-11 00:00:00,2014-03-06 12:28:00,2014-03-06 12:28:00,,Partner,Transfer,Unknown,23,True,2014,2,2014-03,3,2014,3,12,yellow,
+3 weeks,A674005,Bird,duck,yellow,2014-02-11 00:00:00,2014-03-06 12:28:00,2014-03-06 12:28:00,,Partner,Transfer,Unknown,23,True,2014,2,2014-03,3,2014,3,12,yellow,
+2 years,A687087,Bird,dove,gray/white,2012-08-31 00:00:00,2014-08-31 11:17:00,2014-08-31 11:17:00,,Suffering,Euthanasia,Unknown,730,False,2012,8,2014-08,8,2014,6,11,gray,white
+2 weeks,A680859,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+2 months,A688000,Bird,bantam,white,2014-07-12 00:00:00,2014-09-17 00:00:00,2014-09-17 00:00:00,,Partner,Transfer,Unknown,67,True,2014,7,2014-09,9,2014,2,0,white,
+2 weeks,A684023,Bird,nuthatch,brown,2014-07-03 00:00:00,2014-07-18 15:30:00,2014-07-18 15:30:00,,Partner,Transfer,Unknown,15,True,2014,7,2014-07,7,2014,4,15,brown,
+6 months,A687622,Bird,chicken,brown,2014-03-07 00:00:00,2014-09-16 00:00:00,2014-09-16 00:00:00,,Partner,Transfer,Unknown,193,True,2014,3,2014-09,9,2014,1,0,brown,
+2 weeks,A680855,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+1 year,A675979,Bird,duck,white,2013-04-02 00:00:00,2014-04-13 18:18:00,2014-04-13 18:18:00,,In Kennel,Died,Unknown,376,False,2013,4,2014-04,4,2014,6,18,white,
+1 year,A686687,Bird,cockatiel,gray/white,2013-08-25 00:00:00,2014-08-29 18:25:00,2014-08-29 18:25:00,,,Adoption,Unknown,369,False,2013,8,2014-08,8,2014,4,18,gray,white
+1 year,A666232,Bird,pigeon,gray,2012-10-29 00:00:00,2013-11-03 19:02:00,2013-11-03 19:02:00,,,Adoption,Unknown,370,False,2012,10,2013-11,11,2013,6,19,gray,
+4 weeks,A683591,Bird,catbird,brown,2014-06-12 00:00:00,2014-07-12 00:00:00,2014-07-12 00:00:00,,Partner,Transfer,Unknown,30,True,2014,6,2014-07,7,2014,5,0,brown,
+1 year,A676676,Bird,duck,brown/tan,2012-10-13 00:00:00,2014-04-14 16:35:00,2014-04-14 16:35:00,,,Relocate,Unknown,548,False,2012,10,2014-04,4,2014,0,16,brown,tan
+1 year,A694120,Bird,finch,gray/black,2013-12-20 00:00:00,2014-12-21 18:03:00,2014-12-21 18:03:00,,,Adoption,Unknown,366,False,2013,12,2014-12,12,2014,6,18,gray,black
+6 years,A675898,Bird,cockatiel,gray/yellow,2008-04-02 00:00:00,2014-04-26 11:57:00,2014-04-26 11:57:00,Java,Foster,Adoption,Intact Female,2215,False,2008,4,2014-04,4,2014,5,11,gray,yellow
+1 year,A666593,Bird,parakeet,blue,2012-11-04 00:00:00,2013-11-10 16:36:00,2013-11-10 16:36:00,,Partner,Transfer,Intact Male,371,False,2012,11,2013-11,11,2013,6,16,blue,
+1 year,A694121,Bird,finch,white/gray,2013-12-20 00:00:00,2014-12-21 18:03:00,2014-12-21 18:03:00,,,Adoption,Unknown,366,False,2013,12,2014-12,12,2014,6,18,white,gray
+1 year,A668106,Bird,rhode island,yellow/black,2012-11-27 00:00:00,2013-12-01 03:15:00,2013-12-01 03:15:00,,Suffering,Euthanasia,Intact Male,369,False,2012,11,2013-12,12,2013,6,3,yellow,black
+1 year,A679125,Bird,lovebird,white,2013-05-16 00:00:00,2014-05-28 16:22:00,2014-05-28 16:22:00,,,Adoption,Unknown,377,False,2013,5,2014-05,5,2014,2,16,white,
+2 years,A677505,Bird,bantam,white,2012-04-25 00:00:00,2014-05-06 18:40:00,2014-05-06 18:40:00,,,Adoption,Intact Male,741,False,2012,4,2014-05,5,2014,1,18,white,
+1 year,A672939,Bird,chicken,red/black,2013-02-18 00:00:00,2014-03-03 12:16:00,2014-03-03 12:16:00,,,Adoption,Intact Male,378,False,2013,2,2014-03,3,2014,0,12,red,black
+1 year,A672387,Bird,chicken,brown/red,2013-02-09 00:00:00,2014-02-09 12:13:00,2014-02-09 12:13:00,,Suffering,Euthanasia,Intact Female,365,True,2013,2,2014-02,2,2014,6,12,brown,red
+1 year,A687629,Bird,chicken,brown/black,2013-09-08 00:00:00,2014-09-12 15:00:00,2014-09-12 15:00:00,,Suffering,Euthanasia,Unknown,369,False,2013,9,2014-09,9,2014,4,15,brown,black
+2 weeks,A680858,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+2 weeks,A683693,Bird,grackle,black/white,2014-06-29 00:00:00,2014-07-14 00:00:00,2014-07-14 00:00:00,,Partner,Transfer,Unknown,15,True,2014,6,2014-07,7,2014,0,0,black,white
+5 years,A693850,Bird,duck,black/green,2009-12-15 00:00:00,2014-12-18 10:49:00,2014-12-18 10:49:00,,Partner,Transfer,Intact Female,1829,False,2009,12,2014-12,12,2014,3,10,black,green
+1 year,A678507,Bird,parakeet,green/yellow,2013-05-09 00:00:00,2014-05-13 08:00:00,2014-05-13 08:00:00,,Partner,Transfer,Unknown,369,False,2013,5,2014-05,5,2014,1,8,green,yellow
+1 year,A672342,Bird,chicken,red/black,2013-02-08 00:00:00,2014-02-08 15:57:00,2014-02-08 15:57:00,,Suffering,Euthanasia,Intact Male,365,True,2013,2,2014-02,2,2014,5,15,red,black
+1 year,A693590,Bird,chicken,red/green,2013-12-11 00:00:00,2014-12-19 15:37:00,2014-12-19 15:37:00,,,Adoption,Intact Male,373,False,2013,12,2014-12,12,2014,4,15,red,green
+6 months,A687621,Bird,chicken,brown,2014-03-07 00:00:00,2014-09-16 00:00:00,2014-09-16 00:00:00,,Partner,Transfer,Unknown,193,True,2014,3,2014-09,9,2014,1,0,brown,
+1 year,A685204,Bird,quaker,green/blue,2013-08-04 00:00:00,2014-08-04 16:01:00,2014-08-04 16:01:00,,Partner,Transfer,Unknown,365,True,2013,8,2014-08,8,2014,0,16,green,blue
+1 year,A672941,Bird,chicken,red/black,2013-02-18 00:00:00,2014-03-03 12:17:00,2014-03-03 12:17:00,,,Adoption,Intact Male,378,False,2013,2,2014-03,3,2014,0,12,red,black
+2 months,A688001,Bird,bantam,white,2014-07-12 00:00:00,2014-09-16 00:00:00,2014-09-16 00:00:00,,Partner,Transfer,Unknown,66,True,2014,7,2014-09,9,2014,1,0,white,
+1 year,A687957,Bird,cockatiel,yellow,2013-09-12 00:00:00,2014-09-12 15:00:00,2014-09-12 15:00:00,,Partner,Transfer,Intact Male,365,True,2013,9,2014-09,9,2014,4,15,yellow,
+2 weeks,A680860,Bird,duck,yellow/black,2014-05-25 00:00:00,2014-06-10 00:00:00,2014-06-10 00:00:00,,Partner,Transfer,Unknown,16,True,2014,5,2014-06,6,2014,1,0,yellow,black
+2 months,A688002,Bird,bantam,white,2014-07-12 00:00:00,2014-09-16 00:00:00,2014-09-16 00:00:00,,Partner,Transfer,Unknown,66,True,2014,7,2014-09,9,2014,1,0,white,
+1 month,A685473,Bird,dove,brown,2014-06-08 00:00:00,2014-08-08 19:24:00,2014-08-08 19:24:00,,Partner,Transfer,Unknown,61,True,2014,6,2014-08,8,2014,4,19,brown,
+1 year,A676942,Bird,chicken,gold,2013-04-17 00:00:00,2014-04-21 13:27:00,2014-04-21 13:27:00,,Partner,Transfer,Intact Male,369,False,2013,4,2014-04,4,2014,0,13,gold,
+1 year,A668105,Bird,rhode island,yellow/black,2012-11-27 00:00:00,2013-12-01 03:15:00,2013-12-01 03:15:00,,Suffering,Euthanasia,Intact Male,369,False,2012,11,2013-12,12,2013,6,3,yellow,black
+5 months,A686222,Bird,silkie,black,2014-03-13 00:00:00,2014-08-20 00:00:00,2014-08-20 00:00:00,,Partner,Transfer,Intact Male,160,True,2014,3,2014-08,8,2014,2,0,black,
+2 years,A677676,Bird,bantam,white,2012-04-25 00:00:00,2014-05-06 18:40:00,2014-05-06 18:40:00,,,Adoption,Intact Male,741,False,2012,4,2014-05,5,2014,1,18,white,
+1 year,A694123,Bird,parakeet,green,2013-12-20 00:00:00,2014-12-26 14:31:00,2014-12-26 14:31:00,,,Adoption,Intact Female,371,False,2013,12,2014-12,12,2014,4,14,green,
+2 years,A695478,Bird,guinea,brown/white,2013-01-16 00:00:00,2015-01-26 10:54:00,2015-01-26 10:54:00,,,Adoption,Intact Male,740,False,2013,1,2015-01,1,2015,0,10,brown,white
+2 years,A698583,Bird,quaker,green,2013-03-14 00:00:00,2015-03-14 17:52:00,2015-03-14 17:52:00,Precious,,Return to Owner,Intact Female,730,False,2013,3,2015-03,3,2015,5,17,green,
+1 year,A699037,Bird,pigeon,white/black,2014-03-21 00:00:00,2015-03-25 07:51:00,2015-03-25 07:51:00,,Partner,Transfer,Unknown,369,False,2014,3,2015-03,3,2015,2,7,white,black
+2 years,A695477,Bird,turkey,brown/white,2013-01-16 00:00:00,2015-01-27 10:39:00,2015-01-27 10:39:00,,,Adoption,Intact Female,741,False,2013,1,2015-01,1,2015,1,10,brown,white
+1 year,A697828,Bird,chicken,white/brown,2014-03-01 00:00:00,2015-03-01 16:54:00,2015-03-01 16:54:00,,Suffering,Euthanasia,Unknown,365,True,2014,3,2015-03,3,2015,6,16,white,brown
+1 year,A698147,Bird,parakeet,yellow,2014-03-06 00:00:00,2015-03-27 07:39:00,2015-03-27 07:39:00,,Foster,Adoption,Intact Male,386,False,2014,3,2015-03,3,2015,4,7,yellow,
+1 year,A699665,Bird,parakeet,yellow,2014-03-31 00:00:00,2015-04-01 00:00:00,2015-04-01 00:00:00,Lemon,Partner,Transfer,Unknown,366,False,2014,3,2015-04,4,2015,2,0,yellow,
+2 years,A695476,Bird,turkey,brown/white,2013-01-16 00:00:00,2015-01-26 10:53:00,2015-01-26 10:53:00,,,Adoption,Intact Male,740,False,2013,1,2015-01,1,2015,0,10,brown,white
+1 year,A697267,Bird,chicken,red,2013-08-20 00:00:00,2015-02-20 17:18:00,2015-02-20 17:18:00,,Suffering,Euthanasia,Unknown,549,False,2013,8,2015-02,2,2015,4,17,red,
+2 years,A695851,Bird,chicken,red/black,2013-01-24 00:00:00,2015-01-24 13:45:00,2015-01-24 13:45:00,,Suffering,Euthanasia,Unknown,730,False,2013,1,2015-01,1,2015,5,13,red,black
+1 year,A694122,Bird,parakeet,white,2013-12-20 00:00:00,2014-12-26 14:30:00,2014-12-26 14:30:00,,,Adoption,Intact Female,371,False,2013,12,2014-12,12,2014,4,14,white,
+1 year,A720750,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:57:00,2016-03-09 10:57:00,Rooster  D 4,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+2 years,A755543,Bird,dove,gray,2015-08-04 00:00:00,2017-08-04 16:16:00,2017-08-04 16:16:00,,Suffering,Euthanasia,Unknown,731,False,2015,8,2017-08,8,2017,4,16,gray,
+6 months,A736675,Bird,chicken,black/white,2016-04-15 00:00:00,2016-10-15 13:36:00,2016-10-15 13:36:00,,Suffering,Euthanasia,Unknown,183,True,2016,4,2016-10,10,2016,5,13,black,white
+2 years,A754474,Bird,muscovy,tricolor,2015-07-21 00:00:00,2017-07-31 16:34:00,2017-07-31 16:34:00,*Elvis,,Adoption,Unknown,741,False,2015,7,2017-07,7,2017,0,16,tricolor,
+1 year,A748938,Bird,chicken,buff,2016-05-08 00:00:00,2017-05-12 18:36:00,2017-05-12 18:36:00,,Suffering,Euthanasia,Intact Male,369,False,2016,5,2017-05,5,2017,4,18,buff,
+6 months,A724264,Bird,dove,gray,2015-10-14 00:00:00,2016-04-18 12:06:00,2016-04-18 12:06:00,,,Died,Unknown,187,True,2015,10,2016-04,4,2016,0,12,gray,
+4 months,A724460,Bird,duck,white,2015-12-17 00:00:00,2016-04-27 17:36:00,2016-04-27 17:36:00,Daffy,Foster,Adoption,Intact Female,132,True,2015,12,2016-04,4,2016,2,17,white,
+1 year,A722603,Bird,chicken,white/tan,2015-03-19 00:00:00,2016-04-16 00:00:00,2016-04-16 00:00:00,,,Adoption,Intact Male,394,False,2015,3,2016-04,4,2016,5,0,white,tan
+1 year,A726104,Bird,grackle,black,2015-05-06 00:00:00,2016-05-06 13:39:00,2016-05-06 13:39:00,,Suffering,Euthanasia,Unknown,366,False,2015,5,2016-05,5,2016,4,13,black,
+1 year,A739190,Bird,turkey,black/red,2015-11-29 00:00:00,2016-11-29 18:03:00,2016-11-29 18:03:00,Rogers,,Return to Owner,Intact Female,366,False,2015,11,2016-11,11,2016,1,18,black,red
+4 weeks,A754443,Bird,sparrow,gray/black,2017-06-21 00:00:00,2017-07-21 10:40:00,2017-07-21 10:40:00,,Underage,Euthanasia,Unknown,30,True,2017,6,2017-07,7,2017,4,10,gray,black
+1 year,A713039,Bird,parrot,green/yellow,2014-10-02 00:00:00,2015-10-06 14:36:00,2015-10-06 14:36:00,,,Adoption,Unknown,369,False,2014,10,2015-10,10,2015,1,14,green,yellow
+1 year,A700902,Bird,dove,gray/blue,2014-04-21 00:00:00,2015-04-21 12:41:00,2015-04-21 12:41:00,,Partner,Transfer,Unknown,365,True,2014,4,2015-04,4,2015,1,12,gray,blue
+1 year,A722604,Bird,chicken,yellow,2015-03-19 00:00:00,2016-05-04 14:45:00,2016-05-04 14:45:00,,,Adoption,Intact Male,412,False,2015,3,2016-05,5,2016,2,14,yellow,
+1 weeks,A761977,Bird,chicken,brown,2017-11-05 00:00:00,2017-11-13 16:03:00,2017-11-13 16:03:00,,Partner,Transfer,Unknown,8,True,2017,11,2017-11,11,2017,0,16,brown,
+1 year,A723996,Bird,parakeet,blue/gray,2015-04-10 00:00:00,2016-04-17 11:36:00,2016-04-17 11:36:00,*Lemon Head,,Adoption,Unknown,373,False,2015,4,2016-04,4,2016,6,11,blue,gray
+1 year,A760696,Bird,duck,black/white,2016-10-22 00:00:00,2017-10-27 07:23:00,2017-10-27 07:23:00,,Partner,Transfer,Unknown,370,False,2016,10,2017-10,10,2017,4,7,black,white
+1 year,A720738,Bird,chicken,black/chocolate,2015-02-14 00:00:00,2016-03-08 19:57:00,2016-03-08 19:57:00,Rooster 22,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,19,black,chocolate
+2 years,A757067,Bird,grackle,black,2015-08-29 00:00:00,2017-08-29 00:00:00,2017-08-29 00:00:00,,Partner,Transfer,Unknown,731,False,2015,8,2017-08,8,2017,1,0,black,
+5 years,A727224,Bird,peafowl,brown/green,2011-05-20 00:00:00,2016-06-12 09:39:00,2016-06-12 09:39:00,,Foster,Adoption,Intact Female,1850,False,2011,5,2016-06,6,2016,6,9,brown,green
+1 month,A724777,Bird,dove,gray/white,2016-02-21 00:00:00,2016-04-21 17:41:00,2016-04-21 17:41:00,,Suffering,Euthanasia,Unknown,60,True,2016,2,2016-04,4,2016,3,17,gray,white
+1 year,A734521,Bird,cockatoo,white,2015-09-08 00:00:00,2016-09-14 12:40:00,2016-09-14 12:40:00,,Foster,Adoption,Unknown,372,False,2015,9,2016-09,9,2016,2,12,white,
+9 months,A715603,Bird,chicken,black/white,2015-01-06 00:00:00,2015-11-06 15:43:00,2015-11-06 15:43:00,,Suffering,Euthanasia,Intact Female,304,True,2015,1,2015-11,11,2015,4,15,black,white
+1 year,A754759,Bird,parakeet,blue,2016-07-24 00:00:00,2017-07-28 11:24:00,2017-07-28 11:24:00,,,Adoption,Unknown,369,False,2016,7,2017-07,7,2017,4,11,blue,
+1 year,A747816,Bird,parakeet,green/yellow,2016-04-25 00:00:00,2017-05-01 14:55:00,2017-05-01 14:55:00,,,Adoption,Intact Female,371,False,2016,4,2017-05,5,2017,0,14,green,yellow
+2 years,A719013,Bird,hawk,brown/yellow,2014-01-11 00:00:00,2016-01-17 18:01:00,2016-01-17 18:01:00,,Suffering,Euthanasia,Unknown,736,False,2014,1,2016-01,1,2016,6,18,brown,yellow
+1 year,A733487,Bird,dove,gray,2015-08-22 00:00:00,2016-08-22 16:05:00,2016-08-22 16:05:00,,Medical,Euthanasia,Unknown,366,False,2015,8,2016-08,8,2016,0,16,gray,
+1 year,A738841,Bird,dove,brown/black,2015-11-22 00:00:00,2016-11-22 10:53:00,2016-11-22 10:53:00,,Suffering,Euthanasia,Unknown,366,False,2015,11,2016-11,11,2016,1,10,brown,black
+4 years,A733024,Bird,cockatoo,white/yellow,2012-08-16 00:00:00,2016-08-18 09:21:00,2016-08-18 09:21:00,Cabana,,Adoption,Intact Female,1463,False,2012,8,2016-08,8,2016,3,9,white,yellow
+5 months,A757762,Bird,duck,white/black,2017-04-06 00:00:00,2017-09-07 00:00:00,2017-09-07 00:00:00,,Partner,Transfer,Unknown,154,True,2017,4,2017-09,9,2017,3,0,white,black
+6 months,A731060,Bird,chicken,orange,2016-01-15 00:00:00,2016-07-28 00:00:00,2016-07-28 00:00:00,,Partner,Transfer,Intact Male,195,True,2016,1,2016-07,7,2016,3,0,orange,
+1 year,A720736,Bird,chicken,black/cream,2015-02-14 00:00:00,2016-03-09 19:31:00,2016-03-09 19:31:00,Rooster 20,Suffering,Euthanasia,Intact Male,389,False,2015,2,2016-03,3,2016,2,19,black,cream
+1 year,A749173,Bird,mockingbird,tan/white,2016-05-11 00:00:00,2017-05-22 19:44:00,2017-05-22 19:44:00,,,Euthanasia,Unknown,376,False,2016,5,2017-05,5,2017,0,19,tan,white
+4 years,A725289,Bird,vulture,black,2012-04-27 00:00:00,2016-04-27 17:50:00,2016-04-27 17:50:00,,Suffering,Euthanasia,Unknown,1461,False,2012,4,2016-04,4,2016,2,17,black,
+1 year,A722598,Bird,chicken,red,2015-03-19 00:00:00,2016-04-10 18:23:00,2016-04-10 18:23:00,,Suffering,Euthanasia,Intact Male,388,False,2015,3,2016-04,4,2016,6,18,red,
+1 year,A753733,Bird,grackle,black,2016-07-10 00:00:00,2017-07-10 17:57:00,2017-07-10 17:57:00,,,Disposal,Unknown,365,True,2016,7,2017-07,7,2017,0,17,black,
+4 weeks,A727380,Bird,owl,brown/gray,2016-04-21 00:00:00,2016-05-21 15:39:00,2016-05-21 15:39:00,,Suffering,Euthanasia,Unknown,30,True,2016,4,2016-05,5,2016,5,15,brown,gray
+1 year,A726038,Bird,chicken,black/red,2015-05-05 00:00:00,2016-05-10 14:24:00,2016-05-10 14:24:00,,,Adoption,Unknown,371,False,2015,5,2016-05,5,2016,1,14,black,red
+1 year,A745701,Bird,grackle,black,2016-03-22 00:00:00,2017-03-22 15:34:00,2017-03-22 15:34:00,,Suffering,Euthanasia,Intact Male,365,True,2016,3,2017-03,3,2017,2,15,black,
+6 months,A761030,Bird,chicken,brown,2017-04-27 00:00:00,2017-10-31 00:00:00,2017-10-31 00:00:00,Taffy,Partner,Transfer,Intact Male,187,True,2017,4,2017-10,10,2017,1,0,brown,
+2 months,A703445,Bird,dove,gray,2015-02-24 00:00:00,2015-05-24 12:00:00,2015-05-24 12:00:00,,Partner,Transfer,Unknown,89,True,2015,2,2015-05,5,2015,6,12,gray,
+2 weeks,A752206,Bird,duck,yellow,2017-06-04 00:00:00,2017-06-23 15:36:00,2017-06-23 15:36:00,,,Adoption,Unknown,19,True,2017,6,2017-06,6,2017,4,15,yellow,
+1 year,A739544,Bird,pigeon,gray,2015-12-04 00:00:00,2016-12-05 09:13:00,2016-12-05 09:13:00,,,Disposal,Unknown,367,False,2015,12,2016-12,12,2016,0,9,gray,
+1 year,A720747,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:56:00,2016-03-09 10:56:00,Rooster  D1,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A747470,Bird,chicken,white/brown,2016-04-20 00:00:00,2017-04-26 07:02:00,2017-04-26 07:02:00,,Partner,Transfer,Intact Male,371,False,2016,4,2017-04,4,2017,2,7,white,brown
+4 weeks,A730594,Bird,pigeon,brown,2016-06-07 00:00:00,2016-07-07 12:02:00,2016-07-07 12:02:00,,Suffering,Euthanasia,Unknown,30,True,2016,6,2016-07,7,2016,3,12,brown,
+3 years,A737753,Bird,chicken,white/tricolor,2013-11-04 00:00:00,2016-11-04 15:51:00,2016-11-04 15:51:00,,Suffering,Euthanasia,Intact Male,1096,False,2013,11,2016-11,11,2016,4,15,white,tricolor
+1 year,A730320,Bird,pigeon,black,2015-07-01 00:00:00,2016-07-19 00:00:00,2016-07-19 00:00:00,,,Missing,Unknown,384,False,2015,7,2016-07,7,2016,1,0,black,
+1 year,A761833,Bird,pigeon,gray,2016-11-10 00:00:00,2017-11-10 13:43:00,2017-11-10 13:43:00,,,Disposal,Unknown,365,True,2016,11,2017-11,11,2017,4,13,gray,
+1 year,A720733,Bird,chicken,black/chocolate,2015-02-14 00:00:00,2016-03-08 18:52:00,2016-03-08 18:52:00,Rooster 17,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,18,black,chocolate
+1 year,A747016,Bird,parakeet,white/blue,2016-04-12 00:00:00,2017-04-19 12:05:00,2017-04-19 12:05:00,,,Adoption,Unknown,372,False,2016,4,2017-04,4,2017,2,12,white,blue
+1 weeks,A761976,Bird,chicken,brown,2017-11-05 00:00:00,2017-11-13 16:03:00,2017-11-13 16:03:00,,Partner,Transfer,Unknown,8,True,2017,11,2017-11,11,2017,0,16,brown,
+1 year,A720758,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D12,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+4 days,A701134,Bird,bluebird,blue/brown,2015-04-20 00:00:00,2015-04-24 13:46:00,2015-04-24 13:46:00,,Suffering,Euthanasia,Unknown,4,True,2015,4,2015-04,4,2015,4,13,blue,brown
+1 year,A750211,Bird,peafowl,blue/green,2016-05-24 00:00:00,2017-05-30 14:06:00,2017-05-30 14:06:00,,,Adoption,Intact Male,371,False,2016,5,2017-05,5,2017,1,14,blue,green
+3 years,A762370,Bird,muscovy,black/white,2014-11-19 00:00:00,2017-11-22 10:51:00,2017-11-22 10:51:00,,Partner,Transfer,Unknown,1099,False,2014,11,2017-11,11,2017,2,10,black,white
+2 years,A754724,Bird,hawk,brown/white,2015-07-23 00:00:00,2017-07-23 15:53:00,2017-07-23 15:53:00,,Medical,Euthanasia,Unknown,731,False,2015,7,2017-07,7,2017,6,15,brown,white
+1 year,A756474,Bird,chicken,red/black,2016-08-20 00:00:00,2017-08-24 13:32:00,2017-08-24 13:32:00,*George,Partner,Transfer,Intact Male,369,False,2016,8,2017-08,8,2017,3,13,red,black
+6 months,A742400,Bird,bantam,tan/yellow,2016-07-21 00:00:00,2017-01-25 11:09:00,2017-01-25 11:09:00,,,Adoption,Intact Male,188,True,2016,7,2017-01,1,2017,2,11,tan,yellow
+1 year,A743405,Bird,grackle,black,2016-02-09 00:00:00,2017-02-13 00:00:00,2017-02-13 00:00:00,,Partner,Transfer,Unknown,370,False,2016,2,2017-02,2,2017,0,0,black,
+1 year,A720734,Bird,chicken,black/chocolate,2015-02-14 00:00:00,2016-03-08 15:07:00,2016-03-08 15:07:00,Rooster 18,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,15,black,chocolate
+1 year,A720832,Bird,chicken,black,2015-02-15 00:00:00,2016-02-21 19:35:00,2016-02-21 19:35:00,Betty,Partner,Transfer,Unknown,371,False,2015,2,2016-02,2,2016,6,19,black,
+4 months,A708492,Bird,grackle,brown,2015-03-28 00:00:00,2015-07-28 15:17:00,2015-07-28 15:17:00,,Suffering,Euthanasia,Unknown,122,True,2015,3,2015-07,7,2015,1,15,brown,
+1 year,A722606,Bird,chicken,red,2015-03-19 00:00:00,2016-05-03 14:24:00,2016-05-03 14:24:00,,,Adoption,Intact Male,411,False,2015,3,2016-05,5,2016,1,14,red,
+1 year,A758189,Bird,chicken,white,2016-09-12 00:00:00,2017-09-13 14:52:00,2017-09-13 14:52:00,,Partner,Transfer,Unknown,366,False,2016,9,2017-09,9,2017,2,14,white,
+2 months,A756420,Bird,parakeet,green/white,2017-06-19 00:00:00,2017-08-23 17:26:00,2017-08-23 17:26:00,,,Adoption,Unknown,65,True,2017,6,2017-08,8,2017,2,17,green,white
+1 year,A720720,Bird,chicken,black/chocolate,2015-02-14 00:00:00,2016-03-08 18:04:00,2016-03-08 18:04:00,Rooster 4,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,18,black,chocolate
+1 year,A713564,Bird,chicken,black/tricolor,2014-10-08 00:00:00,2015-10-12 12:14:00,2015-10-12 12:14:00,*Rocky,,Adoption,Intact Male,369,False,2014,10,2015-10,10,2015,0,12,black,tricolor
+1 year,A702036,Bird,bunting,tricolor,2014-05-08 00:00:00,2015-05-08 12:58:00,2015-05-08 12:58:00,,Partner,Transfer,Intact Male,365,True,2014,5,2015-05,5,2015,4,12,tricolor,
+1 year,A746888,Bird,dove,gray,2016-04-10 00:00:00,2017-04-10 17:36:00,2017-04-10 17:36:00,,Suffering,Euthanasia,Unknown,365,True,2016,4,2017-04,4,2017,0,17,gray,
+1 year,A718875,Bird,duck,white/gray,2015-01-08 00:00:00,2016-01-13 13:28:00,2016-01-13 13:28:00,,,Relocate,Unknown,370,False,2015,1,2016-01,1,2016,2,13,white,gray
+1 year,A720753,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:57:00,2016-03-09 10:57:00,Rooster  D 7,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A746533,Bird,chicken,orange,2016-04-04 00:00:00,2017-04-08 10:30:00,2017-04-08 10:30:00,,Suffering,Euthanasia,Intact Female,369,False,2016,4,2017-04,4,2017,5,10,orange,
+4 months,A752017,Bird,chicken,red,2017-02-13 00:00:00,2017-06-20 07:50:00,2017-06-20 07:50:00,,Partner,Transfer,Intact Male,127,True,2017,2,2017-06,6,2017,1,7,red,
+1 year,A746727,Bird,parakeet,blue/black,2016-04-08 00:00:00,2017-04-12 14:20:00,2017-04-12 14:20:00,,,Adoption,Unknown,369,False,2016,4,2017-04,4,2017,2,14,blue,black
+6 months,A751428,Bird,muscovy,brown/white,2016-12-08 00:00:00,2017-06-09 14:43:00,2017-06-09 14:43:00,Chocolate,,Return to Owner,Intact Female,183,True,2016,12,2017-06,6,2017,4,14,brown,white
+1 year,A732789,Bird,heron,black,2015-08-13 00:00:00,2016-08-13 12:25:00,2016-08-13 12:25:00,,Suffering,Euthanasia,Unknown,366,False,2015,8,2016-08,8,2016,5,12,black,
+1 year,A724234,Bird,dove,gray,2015-04-14 00:00:00,2016-04-14 15:28:00,2016-04-14 15:28:00,,,Euthanasia,Unknown,366,False,2015,4,2016-04,4,2016,3,15,gray,
+1 weeks,A761978,Bird,chicken,brown,2017-11-05 00:00:00,2017-11-13 11:20:00,2017-11-13 11:20:00,,Partner,Transfer,Unknown,8,True,2017,11,2017-11,11,2017,0,11,brown,
+2 years,A715668,Bird,pigeon,gray,2013-11-07 00:00:00,2015-11-07 17:17:00,2015-11-07 17:17:00,,Suffering,Euthanasia,Unknown,730,False,2013,11,2015-11,11,2015,5,17,gray,
+6 years,A751511,Bird,duck,brown/green,2011-06-09 00:00:00,2017-06-11 17:04:00,2017-06-11 17:04:00,,Suffering,Euthanasia,Unknown,2194,False,2011,6,2017-06,6,2017,6,17,brown,green
+4 years,A738863,Bird,duck,tricolor,2012-11-22 00:00:00,2016-11-22 14:53:00,2016-11-22 14:53:00,,Suffering,Euthanasia,Unknown,1461,False,2012,11,2016-11,11,2016,1,14,tricolor,
+1 year,A720740,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-09 19:31:00,2016-03-09 19:31:00,Rooster 24,Suffering,Euthanasia,Intact Male,389,False,2015,2,2016-03,3,2016,2,19,black,red
+1 year,A754903,Bird,parakeet,green/yellow,2016-07-26 00:00:00,2017-07-27 16:18:00,2017-07-27 16:18:00,Sunshine,,Adoption,Unknown,366,False,2016,7,2017-07,7,2017,3,16,green,yellow
+2 years,A724965,Bird,pigeon,gray,2014-04-23 00:00:00,2016-04-23 18:11:00,2016-04-23 18:11:00,,Suffering,Euthanasia,Unknown,731,False,2014,4,2016-04,4,2016,5,18,gray,
+4 weeks,A700594,Bird,chicken,black,2015-03-16 00:00:00,2015-04-16 14:56:00,2015-04-16 14:56:00,,Suffering,Euthanasia,Unknown,31,True,2015,3,2015-04,4,2015,3,14,black,
+1 weeks,A710951,Bird,chicken,brown,2015-08-28 00:00:00,2015-09-06 13:43:00,2015-09-06 13:43:00,,Foster,Adoption,Unknown,9,True,2015,8,2015-09,9,2015,6,13,brown,
+1 year,A720719,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 16:48:00,2016-03-08 16:48:00,Greenwood,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,16,black,red
+1 year,A720751,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:57:00,2016-03-09 10:57:00,Rooster  D 5,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A745029,Bird,chicken,white,2016-03-11 00:00:00,2017-03-16 12:36:00,2017-03-16 12:36:00,Brook,Partner,Transfer,Intact Male,370,False,2016,3,2017-03,3,2017,3,12,white,
+6 months,A752797,Bird,duck,yellow,2016-12-27 00:00:00,2017-07-04 00:00:00,2017-07-04 00:00:00,,Partner,Transfer,Unknown,189,True,2016,12,2017-07,7,2017,1,0,yellow,
+5 months,A757620,Bird,chicken,brown,2017-04-04 00:00:00,2017-09-07 00:00:00,2017-09-07 00:00:00,Wingless,Partner,Transfer,Intact Male,156,True,2017,4,2017-09,9,2017,3,0,brown,
+1 year,A755621,Bird,parrot,green/yellow,2016-08-06 00:00:00,2017-08-06 14:11:00,2017-08-06 14:11:00,,,Return to Owner,Unknown,365,True,2016,8,2017-08,8,2017,6,14,green,yellow
+1 year,A720748,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:56:00,2016-03-09 10:56:00,Rooster  D2,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+2 years,A706618,Bird,pigeon,white,2013-06-30 00:00:00,2015-07-23 16:49:00,2015-07-23 16:49:00,,,Adoption,Unknown,753,False,2013,6,2015-07,7,2015,3,16,white,
+4 weeks,A750643,Bird,pigeon,gray,2017-04-29 00:00:00,2017-05-29 19:40:00,2017-05-29 19:40:00,,,Euthanasia,Unknown,30,True,2017,4,2017-05,5,2017,0,19,gray,
+6 months,A731061,Bird,chicken,black,2016-01-15 00:00:00,2016-07-28 00:00:00,2016-07-28 00:00:00,,Partner,Transfer,Intact Male,195,True,2016,1,2016-07,7,2016,3,0,black,
+1 year,A727626,Bird,chicken,brown/red,2015-05-23 00:00:00,2016-06-06 11:55:00,2016-06-06 11:55:00,,,Adoption,Intact Female,380,False,2015,5,2016-06,6,2016,0,11,brown,red
+1 year,A723578,Bird,chicken,red,2015-04-03 00:00:00,2016-04-07 14:19:00,2016-04-07 14:19:00,,,Adoption,Intact Female,370,False,2015,4,2016-04,4,2016,3,14,red,
+1 year,A749431,Bird,chicken,brown,2016-05-15 00:00:00,2017-05-15 12:20:00,2017-05-15 12:20:00,,Suffering,Euthanasia,Unknown,365,True,2016,5,2017-05,5,2017,0,12,brown,
+8 years,A732266,Bird,duck,black,2008-08-04 00:00:00,2016-08-06 12:23:00,2016-08-06 12:23:00,Tucker,,Adoption,Intact Male,2924,False,2008,8,2016-08,8,2016,5,12,black,
+2 years,A745859,Bird,turkey,black/red,2015-03-25 00:00:00,2017-03-25 14:52:00,2017-03-25 14:52:00,,Partner,Transfer,Intact Male,731,False,2015,3,2017-03,3,2017,5,14,black,red
+2 years,A728075,Bird,grackle,black,2014-05-30 00:00:00,2016-05-30 17:12:00,2016-05-30 17:12:00,,Suffering,Euthanasia,Unknown,731,False,2014,5,2016-05,5,2016,0,17,black,
+1 year,A700983,Bird,parakeet,blue/white,2014-04-22 00:00:00,2015-05-08 16:50:00,2015-05-08 16:50:00,,,Adoption,Unknown,381,False,2014,4,2015-05,5,2015,4,16,blue,white
+1 year,A720737,Bird,chicken,red/black,2015-02-14 00:00:00,2016-03-08 15:19:00,2016-03-08 15:19:00,Rooster 21,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,15,red,black
+2 years,A713605,Bird,grackle,black,2013-10-09 00:00:00,2015-10-09 14:50:00,2015-10-09 14:50:00,,Suffering,Euthanasia,Unknown,730,False,2013,10,2015-10,10,2015,4,14,black,
+1 year,A734515,Bird,chicken,brown/red,2015-09-08 00:00:00,2016-09-15 13:19:00,2016-09-15 13:19:00,Cogburn,,Adoption,Unknown,373,False,2015,9,2016-09,9,2016,3,13,brown,red
+2 years,A743976,Bird,chicken,white,2015-02-20 00:00:00,2017-02-21 17:23:00,2017-02-21 17:23:00,,Suffering,Euthanasia,Unknown,732,False,2015,2,2017-02,2,2017,1,17,white,
+1 year,A720729,Bird,chicken,red/black,2015-02-14 00:00:00,2016-03-08 11:57:00,2016-03-08 11:57:00,Rooster 13,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,11,red,black
+1 year,A701179,Bird,conure,green,2014-04-24 00:00:00,2015-04-28 12:46:00,2015-04-28 12:46:00,,,Adoption,Unknown,369,False,2014,4,2015-04,4,2015,1,12,green,
+2 years,A748513,Bird,crow,black,2015-05-03 00:00:00,2017-05-03 11:28:00,2017-05-03 11:28:00,,,Relocate,Unknown,731,False,2015,5,2017-05,5,2017,2,11,black,
+5 years,A734294,Bird,heron,blue/white,2011-09-04 00:00:00,2016-09-04 13:19:00,2016-09-04 13:19:00,,Suffering,Euthanasia,Unknown,1827,False,2011,9,2016-09,9,2016,6,13,blue,white
+2 weeks,A753922,Bird,chicken,black/brown,2017-06-29 00:00:00,2017-07-15 15:16:00,2017-07-15 15:16:00,,Partner,Transfer,Unknown,16,True,2017,6,2017-07,7,2017,5,15,black,brown
+1 year,A728248,Bird,chicken,gray,2015-06-01 00:00:00,2016-06-20 12:28:00,2016-06-20 12:28:00,,Foster,Adoption,Unknown,385,False,2015,6,2016-06,6,2016,0,12,gray,
+1 year,A720756,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D10,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A720731,Bird,chicken,cream/black,2015-02-14 00:00:00,2016-03-08 12:52:00,2016-03-08 12:52:00,Rooster 15,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,12,cream,black
+1 year,A720743,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 13:47:00,2016-03-08 13:47:00,Rooster 27,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,13,black,red
+5 months,A749631,Bird,pigeon,gray,2016-11-17 00:00:00,2017-05-17 12:26:00,2017-05-17 12:26:00,,Suffering,Euthanasia,Unknown,181,True,2016,11,2017-05,5,2017,2,12,gray,
+1 year,A720757,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D11,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A720717,Bird,chicken,black/cream,2015-02-14 00:00:00,2016-03-08 14:15:00,2016-03-08 14:15:00,Rooster 1,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,14,black,cream
+1 year,A747027,Bird,quaker,blue,2016-04-12 00:00:00,2017-05-20 12:54:00,2017-05-20 12:54:00,,Foster,Adoption,Unknown,403,False,2016,4,2017-05,5,2017,5,12,blue,
+1 year,A728651,Bird,chicken,black,2015-06-06 00:00:00,2016-06-15 12:58:00,2016-06-15 12:58:00,,,Adoption,Intact Male,375,False,2015,6,2016-06,6,2016,2,12,black,
+3 years,A739575,Bird,chicken,gold,2013-12-04 00:00:00,2016-12-16 00:00:00,2016-12-16 00:00:00,,Partner,Transfer,Intact Male,1108,False,2013,12,2016-12,12,2016,4,0,gold,
+2 years,A760705,Bird,parakeet,white/white,2015-10-22 00:00:00,2017-10-31 00:00:00,2017-10-31 00:00:00,,Partner,Transfer,Unknown,740,False,2015,10,2017-10,10,2017,1,0,white,white
+2 weeks,A737201,Bird,chicken,yellow,2016-10-17 00:00:00,2016-10-31 00:00:00,2016-10-31 00:00:00,,Partner,Transfer,Unknown,14,True,2016,10,2016-10,10,2016,0,0,yellow,
+2 years,A757148,Bird,chicken,red,2015-08-30 00:00:00,2017-09-07 00:00:00,2017-09-07 00:00:00,Big Red,Partner,Transfer,Intact Male,739,False,2015,8,2017-09,9,2017,3,0,red,
+1 year,A741222,Bird,hawk,red,2015-12-29 00:00:00,2017-01-01 14:52:00,2017-01-01 14:52:00,,Suffering,Euthanasia,Unknown,369,False,2015,12,2017-01,1,2017,6,14,red,
+2 weeks,A725746,Bird,bluebird,blue,2016-04-17 00:00:00,2016-05-02 16:27:00,2016-05-02 16:27:00,,Suffering,Euthanasia,Unknown,15,True,2016,4,2016-05,5,2016,0,16,blue,
+1 year,A724658,Bird,peafowl,white/brown,2015-04-20 00:00:00,2016-04-25 11:26:00,2016-04-25 11:26:00,Candy,,Adoption,Intact Female,371,False,2015,4,2016-04,4,2016,0,11,white,brown
+18 years,A722189,Bird,parrot,gray/red,1998-03-12 00:00:00,2016-03-12 19:07:00,2016-03-12 19:07:00,Basil,,Adoption,Intact Male,6575,False,1998,3,2016-03,3,2016,5,19,gray,red
+1 year,A720726,Bird,chicken,red/black,2015-02-14 00:00:00,2016-03-08 14:07:00,2016-03-08 14:07:00,Rooster 10,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,14,red,black
+2 years,A737116,Bird,chicken,brown,2014-10-22 00:00:00,2016-10-22 14:33:00,2016-10-22 14:33:00,,Suffering,Euthanasia,Unknown,731,False,2014,10,2016-10,10,2016,5,14,brown,
+2 years,A702247,Bird,chicken,red,2013-05-11 00:00:00,2015-05-11 13:54:00,2015-05-11 13:54:00,,Suffering,Euthanasia,Intact Female,730,False,2013,5,2015-05,5,2015,0,13,red,
+2 years,A721386,Bird,pigeon,gray/white,2014-02-25 00:00:00,2016-02-26 10:47:00,2016-02-26 10:47:00,,,Died,Unknown,731,False,2014,2,2016-02,2,2016,4,10,gray,white
+7 months,A761209,Bird,chicken,brown,2017-03-31 00:00:00,2017-11-04 18:37:00,2017-11-04 18:37:00,,,Adoption,Intact Male,218,True,2017,3,2017-11,11,2017,5,18,brown,
+1 year,A720752,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:57:00,2016-03-09 10:57:00,Rooster  D 6,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A720745,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 00:00:00,2016-03-08 00:00:00,Rooster 29,Partner,Transfer,Intact Male,388,False,2015,2,2016-03,3,2016,1,0,black,red
+1 year,A748024,Bird,chicken,red,2016-04-28 00:00:00,2017-05-04 00:00:00,2017-05-04 00:00:00,,Partner,Transfer,Unknown,371,False,2016,4,2017-05,5,2017,3,0,red,
+5 days,A722593,Bird,duck,yellow,2016-03-19 00:00:00,2016-03-24 12:37:00,2016-03-24 12:37:00,,Foster,Adoption,Unknown,5,True,2016,3,2016-03,3,2016,3,12,yellow,
+1 year,A720749,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:57:00,2016-03-09 10:57:00,Rooster  D 3,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+2 weeks,A735918,Bird,chicken,black,2016-09-26 00:00:00,2016-10-13 16:28:00,2016-10-13 16:28:00,Eddie,Partner,Transfer,Intact Male,17,True,2016,9,2016-10,10,2016,3,16,black,
+1 year,A720728,Bird,chicken,black/cream,2015-02-14 00:00:00,2016-03-08 14:24:00,2016-03-08 14:24:00,Rooster 12,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,14,black,cream
+1 year,A720721,Bird,chicken,black/cream,2015-02-14 00:00:00,2016-03-09 10:55:00,2016-03-09 10:55:00,Rooster 5,Suffering,Euthanasia,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,black,cream
+1 year,A728177,Bird,grackle,brown,2015-05-31 00:00:00,2016-05-31 17:55:00,2016-05-31 17:55:00,,Suffering,Euthanasia,Unknown,366,False,2015,5,2016-05,5,2016,1,17,brown,
+20 years,A740126,Bird,cockatoo,white/orange,1996-12-11 00:00:00,2016-12-16 00:00:00,2016-12-16 00:00:00,Sunny,Partner,Transfer,Intact Male,7310,False,1996,12,2016-12,12,2016,4,0,white,orange
+1 year,A760390,Bird,heron,gray,2016-10-17 00:00:00,2017-10-17 14:32:00,2017-10-17 14:32:00,,Suffering,Euthanasia,Unknown,365,True,2016,10,2017-10,10,2017,1,14,gray,
+1 year,A722595,Bird,chicken,red,2015-03-19 00:00:00,2016-04-10 18:23:00,2016-04-10 18:23:00,,Suffering,Euthanasia,Intact Male,388,False,2015,3,2016-04,4,2016,6,18,red,
+3 years,A710937,Bird,owl,tricolor,2012-08-30 00:00:00,2015-08-30 13:58:00,2015-08-30 13:58:00,,Medical,Euthanasia,Unknown,1095,False,2012,8,2015-08,8,2015,6,13,tricolor,
+2 years,A718594,Bird,budgerigar,blue/yellow,2014-01-02 00:00:00,2016-01-09 18:57:00,2016-01-09 18:57:00,Chatterbox,Foster,Adoption,Intact Male,737,False,2014,1,2016-01,1,2016,5,18,blue,yellow
+1 year,A720727,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 13:47:00,2016-03-08 13:47:00,Rooster 11,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,13,black,red
+1 year,A720742,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 00:00:00,2016-03-08 00:00:00,Rooster 26,Partner,Transfer,Intact Male,388,False,2015,2,2016-03,3,2016,1,0,black,red
+7 months,A761210,Bird,chicken,white,2017-03-31 00:00:00,2017-11-04 18:37:00,2017-11-04 18:37:00,,,Adoption,Intact Male,218,True,2017,3,2017-11,11,2017,5,18,white,
+1 year,A731620,Bird,quaker,green,2015-07-25 00:00:00,2016-07-25 16:46:00,2016-07-25 16:46:00,,Partner,Transfer,Unknown,366,False,2015,7,2016-07,7,2016,0,16,green,
+1 year,A748147,Bird,parakeet,blue/white,2016-04-29 00:00:00,2017-05-07 11:40:00,2017-05-07 11:40:00,,,Disposal,Unknown,373,False,2016,4,2017-05,5,2017,6,11,blue,white
+5 months,A754727,Bird,song bird,gray/white,2017-01-23 00:00:00,2017-07-23 16:36:00,2017-07-23 16:36:00,,Medical,Euthanasia,Unknown,181,True,2017,1,2017-07,7,2017,6,16,gray,white
+4 weeks,A750282,Bird,chicken,brown,2017-04-25 00:00:00,2017-05-25 12:39:00,2017-05-25 12:39:00,,Suffering,Euthanasia,Unknown,30,True,2017,4,2017-05,5,2017,3,12,brown,
+1 year,A714136,Bird,cockatiel,green/yellow,2014-10-18 00:00:00,2015-10-22 11:35:00,2015-10-22 11:35:00,,,Adoption,Unknown,369,False,2014,10,2015-10,10,2015,3,11,green,yellow
+1 year,A754436,Bird,dove,gray,2016-07-20 00:00:00,2017-07-20 18:34:00,2017-07-20 18:34:00,,Suffering,Euthanasia,Unknown,365,True,2016,7,2017-07,7,2017,3,18,gray,
+1 year,A720723,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 17:43:00,2016-03-08 17:43:00,Rooster 7,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,17,black,red
+1 year,A719836,Bird,pigeon,gray,2015-01-28 00:00:00,2016-01-28 16:31:00,2016-01-28 16:31:00,,Suffering,Euthanasia,Unknown,365,True,2015,1,2016-01,1,2016,3,16,gray,
+6 months,A737253,Bird,bantam,black/white,2016-04-24 00:00:00,2016-10-30 00:00:00,2016-10-30 00:00:00,,Partner,Transfer,Intact Male,189,True,2016,4,2016-10,10,2016,6,0,black,white
+1 year,A720759,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D13,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A736574,Bird,cockatiel,white,2015-10-13 00:00:00,2016-10-17 14:10:00,2016-10-17 14:10:00,Aeos,,Return to Owner,Unknown,370,False,2015,10,2016-10,10,2016,0,14,white,
+1 year,A720754,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D 8,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+1 year,A760051,Bird,quaker,green/gray,2016-10-11 00:00:00,2017-10-20 12:40:00,2017-10-20 12:40:00,,,Adoption,Unknown,374,False,2016,10,2017-10,10,2017,4,12,green,gray
+1 year,A734685,Bird,african,gray,2015-09-11 00:00:00,2016-09-12 13:26:00,2016-09-12 13:26:00,Gracie,,Return to Owner,Unknown,367,False,2015,9,2016-09,9,2016,0,13,gray,
+1 year,A758825,Bird,chicken,white/tan,2016-09-22 00:00:00,2017-09-22 14:53:00,2017-09-22 14:53:00,,Suffering,Euthanasia,Unknown,365,True,2016,9,2017-09,9,2017,4,14,white,tan
+2 years,A706617,Bird,pigeon,tan,2013-06-30 00:00:00,2015-07-23 16:49:00,2015-07-23 16:49:00,,,Adoption,Unknown,753,False,2013,6,2015-07,7,2015,3,16,tan,
+1 year,A720724,Bird,chicken,red/black,2015-02-14 00:00:00,2016-03-08 13:49:00,2016-03-08 13:49:00,Rooster 8,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,13,red,black
+1 year,A720760,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D14,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+6 months,A738762,Bird,rhode island,red,2016-05-26 00:00:00,2016-11-27 10:29:00,2016-11-27 10:29:00,,,Adoption,Intact Female,185,True,2016,5,2016-11,11,2016,6,10,red,
+1 year,A736992,Bird,cockatiel,gray/yellow,2015-10-20 00:00:00,2016-10-24 13:11:00,2016-10-24 13:11:00,,,Return to Owner,Unknown,370,False,2015,10,2016-10,10,2016,0,13,gray,yellow
+2 years,A703854,Bird,parakeet,green/blue,2013-05-29 00:00:00,2015-06-22 00:00:00,2015-06-22 00:00:00,,Partner,Transfer,Unknown,754,False,2013,5,2015-06,6,2015,0,0,green,blue
+1 year,A739251,Bird,cockatiel,gray/white,2015-11-29 00:00:00,2016-12-05 18:53:00,2016-12-05 18:53:00,,,Adoption,Unknown,372,False,2015,11,2016-12,12,2016,0,18,gray,white
+1 year,A720762,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D16,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+6 months,A733592,Bird,chicken,brown,2016-02-24 00:00:00,2016-08-30 13:57:00,2016-08-30 13:57:00,,,Adoption,Unknown,188,True,2016,2,2016-08,8,2016,1,13,brown,
+1 year,A718638,Bird,chicken,white,2015-01-03 00:00:00,2016-01-12 17:37:00,2016-01-12 17:37:00,,Medical,Euthanasia,Intact Female,374,False,2015,1,2016-01,1,2016,1,17,white,
+1 year,A722312,Bird,parakeet,white,2015-03-14 00:00:00,2016-03-19 14:33:00,2016-03-19 14:33:00,,,Adoption,Unknown,371,False,2015,3,2016-03,3,2016,5,14,white,
+2 years,A758774,Bird,peafowl,blue/green,2015-09-21 00:00:00,2017-09-28 14:59:00,2017-09-28 14:59:00,,Partner,Transfer,Intact Male,738,False,2015,9,2017-09,9,2017,3,14,blue,green
+6 months,A725364,Bird,chicken,tricolor,2015-10-28 00:00:00,2016-05-02 17:06:00,2016-05-02 17:06:00,,,Adoption,Unknown,187,True,2015,10,2016-05,5,2016,0,17,tricolor,
+1 year,A719502,Bird,dove,gray/brown,2015-01-21 00:00:00,2016-01-21 13:41:00,2016-01-21 13:41:00,,Suffering,Euthanasia,Unknown,365,True,2015,1,2016-01,1,2016,3,13,gray,brown
+2 months,A727160,Bird,chicken,white,2016-04-03 00:00:00,2016-06-14 13:31:00,2016-06-14 13:31:00,,Foster,Adoption,Unknown,72,True,2016,4,2016-06,6,2016,1,13,white,
+2 years,A712127,Bird,sparrow,brown,2013-09-17 00:00:00,2015-09-19 10:13:00,2015-09-19 10:13:00,,,Euthanasia,Unknown,732,False,2013,9,2015-09,9,2015,5,10,brown,
+6 months,A714243,Bird,chicken,white,2015-04-20 00:00:00,2015-11-10 10:47:00,2015-11-10 10:47:00,,,Adoption,Unknown,204,True,2015,4,2015-11,11,2015,1,10,white,
+1 year,A744142,Bird,heron,gray,2016-02-23 00:00:00,2017-02-23 15:28:00,2017-02-23 15:28:00,,Suffering,Euthanasia,Unknown,366,False,2016,2,2017-02,2,2017,3,15,gray,
+1 year,A730308,Bird,mockingbird,gray/white,2015-07-01 00:00:00,2016-07-01 17:37:00,2016-07-01 17:37:00,,Suffering,Euthanasia,Unknown,366,False,2015,7,2016-07,7,2016,4,17,gray,white
+4 weeks,A714194,Bird,pigeon,blue/black,2015-09-19 00:00:00,2015-10-19 14:25:00,2015-10-19 14:25:00,,,Disposal,Unknown,30,True,2015,9,2015-10,10,2015,0,14,blue,black
+1 year,A755570,Bird,pigeon,gray/white,2016-08-05 00:00:00,2017-09-27 19:22:00,2017-09-27 19:22:00,,,Disposal,Unknown,418,False,2016,8,2017-09,9,2017,2,19,gray,white
+25 years,A740127,Bird,cockatoo,white/orange,1991-12-11 00:00:00,2016-12-16 00:00:00,2016-12-16 00:00:00,Sweet Pea,Partner,Transfer,Intact Female,9137,False,1991,12,2016-12,12,2016,4,0,white,orange
+4 months,A755181,Bird,owl,brown/black,2017-03-30 00:00:00,2017-07-30 13:15:00,2017-07-30 13:15:00,,Medical,Euthanasia,Unknown,122,True,2017,3,2017-07,7,2017,6,13,brown,black
+2 weeks,A753923,Bird,chicken,black/brown,2017-06-29 00:00:00,2017-07-15 15:16:00,2017-07-15 15:16:00,,Partner,Transfer,Unknown,16,True,2017,6,2017-07,7,2017,5,15,black,brown
+1 year,A720741,Bird,chicken,red/brown,2015-02-14 00:00:00,2016-03-08 16:06:00,2016-03-08 16:06:00,Rooster 25,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,16,red,brown
+4 weeks,A750283,Bird,chicken,gray,2017-04-25 00:00:00,2017-05-29 14:20:00,2017-05-29 14:20:00,,,Adoption,Unknown,34,True,2017,4,2017-05,5,2017,0,14,gray,
+1 year,A748023,Bird,chicken,red,2016-04-28 00:00:00,2017-05-04 00:00:00,2017-05-04 00:00:00,,Partner,Transfer,Unknown,371,False,2016,4,2017-05,5,2017,3,0,red,
+2 years,A729393,Bird,dove,gray,2014-06-17 00:00:00,2016-06-17 15:52:00,2016-06-17 15:52:00,,Suffering,Euthanasia,Unknown,731,False,2014,6,2016-06,6,2016,4,15,gray,
+2 years,A740877,Bird,hawk,gray,2014-12-24 00:00:00,2016-12-25 10:14:00,2016-12-25 10:14:00,,Partner,Transfer,Unknown,732,False,2014,12,2016-12,12,2016,6,10,gray,
+3 days,A702293,Bird,duck,yellow/black,2015-05-08 00:00:00,2015-05-11 18:33:00,2015-05-11 18:33:00,,,Adoption,Unknown,3,True,2015,5,2015-05,5,2015,0,18,yellow,black
+6 months,A701725,Bird,chicken,black,2014-11-03 00:00:00,2015-05-13 07:43:00,2015-05-13 07:43:00,,,Relocate,Unknown,191,True,2014,11,2015-05,5,2015,2,7,black,
+1 year,A753968,Bird,chicken,red,2016-07-13 00:00:00,2017-07-22 18:10:00,2017-07-22 18:10:00,,Foster,Adoption,Unknown,374,False,2016,7,2017-07,7,2017,5,18,red,
+8 months,A749157,Bird,duck,yellow,2016-09-11 00:00:00,2017-05-15 09:32:00,2017-05-15 09:32:00,,Foster,Adoption,Unknown,246,True,2016,9,2017-05,5,2017,0,9,yellow,
+1 year,A763769,Bird,hawk,brown,2016-12-15 00:00:00,2017-12-15 18:42:00,2017-12-15 18:42:00,,Suffering,Euthanasia,Unknown,365,True,2016,12,2017-12,12,2017,4,18,brown,
+1 year,A711895,Bird,conure,green,2014-09-13 00:00:00,2015-09-16 19:32:00,2015-09-16 19:32:00,,,Adoption,Unknown,368,False,2014,9,2015-09,9,2015,2,19,green,
+1 year,A716660,Bird,sparrow,gray,2014-11-22 00:00:00,2015-11-23 11:36:00,2015-11-23 11:36:00,,,Relocate,Unknown,366,False,2014,11,2015-11,11,2015,0,11,gray,
+2 years,A706368,Bird,chicken,brown,2013-06-27 00:00:00,2015-06-29 09:42:00,2015-06-29 09:42:00,,Partner,Transfer,Unknown,732,False,2013,6,2015-06,6,2015,0,9,brown,
+1 year,A720739,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 00:00:00,2016-03-08 00:00:00,Rooster 23,Partner,Transfer,Intact Male,388,False,2015,2,2016-03,3,2016,1,0,black,red
+8 months,A749156,Bird,duck,yellow,2016-09-11 00:00:00,2017-05-15 09:32:00,2017-05-15 09:32:00,,Foster,Adoption,Unknown,246,True,2016,9,2017-05,5,2017,0,9,yellow,
+1 year,A722224,Bird,wren,brown,2015-03-12 00:00:00,2016-03-18 14:33:00,2016-03-18 14:33:00,,,Relocate,Unknown,372,False,2015,3,2016-03,3,2016,4,14,brown,
+3 weeks,A702156,Bird,mockingbird,black/gray,2015-04-18 00:00:00,2015-05-10 17:19:00,2015-05-10 17:19:00,,Partner,Transfer,Unknown,22,True,2015,4,2015-05,5,2015,6,17,black,gray
+2 years,A741066,Bird,cockatiel,gray/yellow,2014-12-27 00:00:00,2016-12-31 13:04:00,2016-12-31 13:04:00,,,Adoption,Unknown,735,False,2014,12,2016-12,12,2016,5,13,gray,yellow
+2 years,A729753,Bird,dove,gray/white,2014-06-23 00:00:00,2016-06-23 14:52:00,2016-06-23 14:52:00,,Suffering,Euthanasia,Unknown,731,False,2014,6,2016-06,6,2016,3,14,gray,white
+1 year,A751393,Bird,chicken,white/black,2016-06-07 00:00:00,2017-06-17 13:22:00,2017-06-17 13:22:00,*Clark Gable,,Adoption,Intact Male,375,False,2016,6,2017-06,6,2017,5,13,white,black
+1 year,A757392,Bird,grackle,black,2016-09-01 00:00:00,2017-09-01 18:24:00,2017-09-01 18:24:00,,Suffering,Euthanasia,Intact Female,365,True,2016,9,2017-09,9,2017,4,18,black,
+1 year,A720718,Bird,chicken,black/yellow,2015-02-14 00:00:00,2016-03-08 14:20:00,2016-03-08 14:20:00,Tito,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,14,black,yellow
+1 year,A748022,Bird,chicken,red,2016-04-28 00:00:00,2017-05-04 00:00:00,2017-05-04 00:00:00,,Partner,Transfer,Unknown,371,False,2016,4,2017-05,5,2017,3,0,red,
+1 year,A722867,Bird,grackle,black,2015-03-23 00:00:00,2016-03-23 13:33:00,2016-03-23 13:33:00,,Suffering,Euthanasia,Unknown,366,False,2015,3,2016-03,3,2016,2,13,black,
+1 year,A756928,Bird,pigeon,gray,2016-08-28 00:00:00,2017-08-28 10:17:00,2017-08-28 10:17:00,,Medical,Euthanasia,Unknown,365,True,2016,8,2017-08,8,2017,0,10,gray,
+1 year,A702542,Bird,dove,brown,2014-05-15 00:00:00,2015-05-15 13:13:00,2015-05-15 13:13:00,,Suffering,Euthanasia,Unknown,365,True,2014,5,2015-05,5,2015,4,13,brown,
+1 year,A739191,Bird,turkey,black/red,2015-11-29 00:00:00,2016-11-29 18:03:00,2016-11-29 18:03:00,Prince,,Return to Owner,Intact Male,366,False,2015,11,2016-11,11,2016,1,18,black,red
+1 year,A720730,Bird,chicken,yellow/black,2015-02-14 00:00:00,2016-03-08 14:34:00,2016-03-08 14:34:00,Rooster 14,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,14,yellow,black
+1 year,A740019,Bird,cockatiel,gray/white,2015-12-10 00:00:00,2016-12-12 17:35:00,2016-12-12 17:35:00,Greeki,,Adoption,Unknown,368,False,2015,12,2016-12,12,2016,0,17,gray,white
+5 months,A748817,Bird,duck,yellow,2016-12-07 00:00:00,2017-05-11 18:36:00,2017-05-11 18:36:00,,,Adoption,Unknown,155,True,2016,12,2017-05,5,2017,3,18,yellow,
+3 years,A714366,Bird,goose,white/gray,2012-10-22 00:00:00,2015-10-26 00:00:00,2015-10-26 00:00:00,,Partner,Transfer,Unknown,1099,False,2012,10,2015-10,10,2015,0,0,white,gray
+1 year,A743806,Bird,barred rock,black/white,2016-02-17 00:00:00,2017-02-25 10:18:00,2017-02-25 10:18:00,,Partner,Transfer,Intact Male,374,False,2016,2,2017-02,2,2017,5,10,black,white
+1 year,A720755,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D 9,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+2 years,A721084,Bird,pigeon,blue/white,2014-02-20 00:00:00,2016-02-20 17:16:00,2016-02-20 17:16:00,,,Died,Unknown,730,False,2014,2,2016-02,2,2016,5,17,blue,white
+2 years,A747995,Bird,owl,brown/white,2015-04-27 00:00:00,2017-04-27 18:25:00,2017-04-27 18:25:00,,Suffering,Euthanasia,Unknown,731,False,2015,4,2017-04,4,2017,3,18,brown,white
+6 months,A751513,Bird,chicken,red,2016-12-09 00:00:00,2017-06-10 10:36:00,2017-06-10 10:36:00,Psyduck,Offsite,Adoption,Unknown,183,True,2016,12,2017-06,6,2017,5,10,red,
+2 years,A735015,Bird,dove,gray/white,2014-09-17 00:00:00,2016-09-17 10:05:00,2016-09-17 10:05:00,,Suffering,Euthanasia,Unknown,731,False,2014,9,2016-09,9,2016,5,10,gray,white
+2 years,A760807,Bird,peafowl,gray/blue,2015-10-24 00:00:00,2017-10-31 00:00:00,2017-10-31 00:00:00,,Partner,Transfer,Intact Male,738,False,2015,10,2017-10,10,2017,1,0,gray,blue
+3 weeks,A702157,Bird,sparrow,brown/gray,2015-04-18 00:00:00,2015-05-10 17:20:00,2015-05-10 17:20:00,,Partner,Transfer,Unknown,22,True,2015,4,2015-05,5,2015,6,17,brown,gray
+4 weeks,A749717,Bird,pigeon,black,2017-04-18 00:00:00,2017-05-21 18:28:00,2017-05-21 18:28:00,,Suffering,Euthanasia,Unknown,33,True,2017,4,2017-05,5,2017,6,18,black,
+1 year,A720732,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 17:20:00,2016-03-08 17:20:00,*Randy,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,17,black,red
+1 year,A741093,Bird,owl,brown,2015-12-28 00:00:00,2016-12-28 09:59:00,2016-12-28 09:59:00,,Suffering,Euthanasia,Unknown,366,False,2015,12,2016-12,12,2016,2,9,brown,
+1 year,A720761,Bird,chicken,white,2015-02-14 00:00:00,2016-03-09 10:58:00,2016-03-09 10:58:00,Rooster  D15,,Disposal,Intact Male,389,False,2015,2,2016-03,3,2016,2,10,white,
+5 years,A721860,Bird,parrot,green/gray,2011-03-06 00:00:00,2016-03-10 20:22:00,2016-03-10 20:22:00,,,Adoption,Unknown,1831,False,2011,3,2016-03,3,2016,3,20,green,gray
+1 year,A720735,Bird,chicken,black/cream,2015-02-14 00:00:00,2016-03-08 18:14:00,2016-03-08 18:14:00,Rooster 19,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,18,black,cream
+2 years,A731434,Bird,heron,gray/brown,2014-07-22 00:00:00,2016-07-22 00:00:00,2016-07-22 00:00:00,,Partner,Transfer,Unknown,731,False,2014,7,2016-07,7,2016,4,0,gray,brown
+1 year,A722609,Bird,chicken,red,2015-03-19 00:00:00,2016-04-15 11:48:00,2016-04-15 11:48:00,,,Adoption,Intact Male,393,False,2015,3,2016-04,4,2016,4,11,red,
+1 year,A720744,Bird,chicken,black/red,2015-02-14 00:00:00,2016-03-08 13:49:00,2016-03-08 13:49:00,Rooster 28,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,13,black,red
+6 months,A736790,Bird,quaker,green,2016-04-17 00:00:00,2016-10-25 08:43:00,2016-10-25 08:43:00,,Suffering,Euthanasia,Unknown,191,True,2016,4,2016-10,10,2016,1,8,green,
+1 year,A744090,Bird,parakeet,green/black,2016-02-23 00:00:00,2017-03-30 07:43:00,2017-03-30 07:43:00,Marley,Foster,Adoption,Intact Male,401,False,2016,2,2017-03,3,2017,3,7,green,black
+6 months,A745684,Bird,parakeet,white,2016-09-25 00:00:00,2017-03-29 11:12:00,2017-03-29 11:12:00,,,Adoption,Unknown,185,True,2016,9,2017-03,3,2017,2,11,white,
+4 months,A733254,Bird,chicken,brown/black,2016-04-19 00:00:00,2016-08-24 13:44:00,2016-08-24 13:44:00,,,Adoption,Intact Female,127,True,2016,4,2016-08,8,2016,2,13,brown,black
+2 years,A724341,Bird,chicken,black/red,2014-04-15 00:00:00,2016-05-04 14:44:00,2016-05-04 14:44:00,,,Adoption,Intact Male,750,False,2014,4,2016-05,5,2016,2,14,black,red
+1 year,A727058,Bird,parakeet,green/blue,2015-05-17 00:00:00,2016-05-21 11:47:00,2016-05-21 11:47:00,,,Adoption,Unknown,370,False,2015,5,2016-05,5,2016,5,11,green,blue
+5 days,A722594,Bird,duck,yellow,2016-03-19 00:00:00,2016-03-24 12:37:00,2016-03-24 12:37:00,,Foster,Adoption,Unknown,5,True,2016,3,2016-03,3,2016,3,12,yellow,
+1 year,A720722,Bird,chicken,black/chocolate,2015-02-14 00:00:00,2016-03-08 16:05:00,2016-03-08 16:05:00,Rooster 6,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,16,black,chocolate
+2 years,A726890,Bird,bluebird,blue,2014-05-16 00:00:00,2016-05-16 12:07:00,2016-05-16 12:07:00,,Medical,Euthanasia,Unknown,731,False,2014,5,2016-05,5,2016,0,12,blue,
+1 year,A720725,Bird,chicken,red/black,2015-02-14 00:00:00,2016-03-08 18:56:00,2016-03-08 18:56:00,Rooster 9,,Adoption,Intact Male,388,False,2015,2,2016-03,3,2016,1,18,red,black
+2 years,A703855,Bird,parakeet,green/blue,2013-05-29 00:00:00,2015-06-22 00:00:00,2015-06-22 00:00:00,,Partner,Transfer,Unknown,754,False,2013,5,2015-06,6,2015,0,0,green,blue
+4 weeks,A763587,Bird,chicken,tricolor,2017-11-11 00:00:00,2017-12-13 11:15:00,2017-12-13 11:15:00,*Mona,Partner,Transfer,Intact Female,32,True,2017,11,2017-12,12,2017,2,11,tricolor,
+1 year,A714300,Bird,chicken,orange/white,2014-10-21 00:00:00,2015-10-21 19:28:00,2015-10-21 19:28:00,,Suffering,Euthanasia,Unknown,365,True,2014,10,2015-10,10,2015,2,19,orange,white
+6 months,A761029,Bird,chicken,brown/white,2017-04-27 00:00:00,2017-10-31 00:00:00,2017-10-31 00:00:00,Lafayette,Partner,Transfer,Intact Male,187,True,2017,4,2017-10,10,2017,1,0,brown,white
+1 year,A695738,Bird,conure,green/orange,2014-01-21 00:00:00,2015-06-14 14:37:00,2015-06-14 14:37:00,Guey,,Return to Owner,Unknown,509,False,2014,1,2015-06,6,2015,6,14,green,orange
+6 months,A761028,Bird,chicken,white/black,2017-04-27 00:00:00,2017-10-31 00:00:00,2017-10-31 00:00:00,Winter,Partner,Transfer,Intact Male,187,True,2017,4,2017-10,10,2017,1,0,white,black
+3 years,A734710,Bird,chicken,gray/tan,2013-09-11 00:00:00,2016-09-11 14:29:00,2016-09-11 14:29:00,Tammy Wynett,Suffering,Euthanasia,Intact Female,1096,False,2013,9,2016-09,9,2016,6,14,gray,tan
+1 year,A728348,Bird,dove,gray,2015-06-02 00:00:00,2016-06-02 16:26:00,2016-06-02 16:26:00,,Suffering,Euthanasia,Unknown,366,False,2015,6,2016-06,6,2016,3,16,gray,
+1 year,A701871,Bird,chicken,yellow/white,2014-05-05 00:00:00,2015-05-09 18:54:00,2015-05-09 18:54:00,,,Adoption,Intact Male,369,False,2014,5,2015-05,5,2015,5,18,yellow,white
+6 months,A715013,Bird,mockingbird,gray/black,2015-04-30 00:00:00,2015-10-30 13:54:00,2015-10-30 13:54:00,,,Relocate,Unknown,183,True,2015,4,2015-10,10,2015,4,13,gray,black
+2 years,A734937,Bird,chicken,sable,2014-09-15 00:00:00,2016-09-27 00:00:00,2016-09-27 00:00:00,,Partner,Transfer,Intact Male,743,False,2014,9,2016-09,9,2016,1,0,sable,
+6 months,A751514,Bird,chicken,red,2016-12-09 00:00:00,2017-06-10 10:42:00,2017-06-10 10:42:00,Starlight,Offsite,Adoption,Unknown,183,True,2016,12,2017-06,6,2017,5,10,red,
+1 year,A764577,Bird,muscovy,white/green,2017-01-02 00:00:00,2018-01-05 13:23:00,2018-01-05 13:23:00,,Partner,Transfer,Unknown,368,False,2017,1,2018-01,1,2018,4,13,white,green
+6 months,A765436,Bird,chicken,tan/red,2017-07-20 00:00:00,2018-01-24 14:32:00,2018-01-24 14:32:00,Flip,,Adoption,Intact Male,188,True,2017,7,2018-01,1,2018,2,14,tan,red
+,A765547,Bird,leghorn,white/red,2017-01-22 00:00:00,2018-01-25 13:23:00,2018-01-25 13:23:00,,Partner,Transfer,Intact Female,368,False,2017,1,2018-01,1,2018,3,13,white,red
+1 year,A765059,Bird,chicken,black/white,2017-01-12 00:00:00,2018-01-29 19:42:00,2018-01-29 19:42:00,,Foster,Adoption,Intact Female,382,False,2017,1,2018-01,1,2018,0,19,black,white
+2 years,A765221,Bird,pheasant,gold/brown,2016-01-15 00:00:00,2018-01-18 15:49:00,2018-01-18 15:49:00,,Partner,Transfer,Unknown,734,False,2016,1,2018-01,1,2018,3,15,gold,brown
