@@ -8,16 +8,20 @@ from datetime import datetime, timedelta
 import os
 import sys
 
-from dash import Dash, dcc, html, Input, Output
+import dash
+from dash import Dash, dcc, html, Input, Output, callback
+import dash_bootstrap_components as dbc
+
 
 CWD = os.path.dirname(os.path.abspath(__file__))
 
-original_df = pd.read_csv(os.path.join(CWD, 'clean_data.csv'),
+original_df = pd.read_csv(os.path.join(CWD, '../data/clean_data.csv'),
                           parse_dates=['date_of_birth', 'datetime'])
 original_df = original_df.sort_values(by='datetime', ascending=False)
 
-app = Dash(__name__)
-app.layout = html.Div([
+dash.register_page(__name__)
+
+layout = html.Div([
     html.H1('Shelter Animal Outcomes'),
     html.Div([
         html.Div(children=[
@@ -105,7 +109,7 @@ def df(row_option='All Visits'):
     return original_df.drop_duplicates(subset='datetime', keep='last')
 
 
-@ app.callback(
+@ callback(
     Output('event_count_graph', 'figure'),
     Input('choose_unique_animals', 'value')
 )
@@ -128,7 +132,7 @@ def get_event_count_graph(row_option):  # dummy argument
     return fig
 
 
-@ app.callback(
+@ callback(
     Output('num_visits_graph', 'figure'),
     Input('choose_unique_animals', 'value')
 )
@@ -145,7 +149,7 @@ def get_num_visits_graph(row_option):  # dummy argument
     return fig
 
 
-@ app.callback(
+@ callback(
     Output('outcome_type_graph', 'figure'),
     Input('choose_unique_animals', 'value')
 )
@@ -166,7 +170,7 @@ def get_outcome_type_graph(row_option):  # dummy argument
     return fig
 
 
-@ app.callback(
+@ callback(
     Output('animal_type_graph', 'figure'),
     Input('choose_unique_animals', 'value')
 )
@@ -193,7 +197,7 @@ def get_animal_type_graph(row_option):
     return fig
 
 
-@ app.callback(
+@ callback(
     Output('sex_type_graph', 'figure'),
     Input('choose_unique_animals', 'value')
 )
