@@ -11,7 +11,7 @@ SIDEBAR_STYLE = {
     "top": 0,
     "left": 0,
     "bottom": 0,
-    "width": "16rem",
+    "width": "18rem",
     "padding": "2rem 1rem",
     "background-color": "#111111",
     "color": "#C8C8C8"
@@ -31,11 +31,8 @@ pageList = ['home', 'board']
 
 sidebar = html.Div(
     [
-        html.H3("Lyndon Fan", className="display-4"),
+        html.H3("Shelter Animal Outcomes", className="display-4"),
         html.Hr(),
-        html.P(
-            "This Dashboard built for Plotly/Dash Community Challange by Lyndon Fan", className="lead"
-        ),
         dbc.Nav(
             [
                 dbc.NavLink("Home",
