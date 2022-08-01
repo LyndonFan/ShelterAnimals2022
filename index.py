@@ -23,6 +23,7 @@ CWD = os.path.dirname(os.path.abspath(__file__))
 app.config.suppress_callback_exceptions = True
 
 
+app.config.suppress_callback_exceptions = True
 content = html.Div(id="page-content", style=CONTENT_STYLE)
 
 app.layout = dbc.Container([
@@ -34,11 +35,21 @@ app.layout = dbc.Container([
 @app.callback(Output("page-content", "children"),
               [Input("url", "pathname")])
 def render_page_content(pathname):
+
+
+<< << << < HEAD
     if pathname in ["/", "/home"]:
         return home.layout
     elif pathname == "/board":
         return board.layout
     return dbc.Container(
+== == == =
+    if pathname in ["/", "/index"]:
+        return home
+    elif pathname == "/board":
+        return board
+    return dbc.Jumbotron(
+>>>>>> > 5a77d4a942fe0273b95ed62816d44c356a166a9e
         [
             html.H1("404: Not found", className="text-danger"),
             html.Hr(),
