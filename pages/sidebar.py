@@ -11,11 +11,7 @@ SIDEBAR_STYLE = {
     "top": 0,
     "left": 0,
     "bottom": 0,
-    << << << < HEAD
     "width": "18rem",
-    == == == =
-    "width": "16rem",
-    >>>>>> > 5a77d4a942fe0273b95ed62816d44c356a166a9e
     "padding": "2rem 1rem",
     "background-color": "#111111",
     "color": "#C8C8C8"

@@ -36,20 +36,11 @@ app.layout = dbc.Container([
               [Input("url", "pathname")])
 def render_page_content(pathname):
 
-
-<< << << < HEAD
     if pathname in ["/", "/home"]:
         return home.layout
     elif pathname == "/board":
         return board.layout
     return dbc.Container(
-== == == =
-    if pathname in ["/", "/index"]:
-        return home
-    elif pathname == "/board":
-        return board
-    return dbc.Jumbotron(
->>>>>> > 5a77d4a942fe0273b95ed62816d44c356a166a9e
         [
             html.H1("404: Not found", className="text-danger"),
             html.Hr(),
