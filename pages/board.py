@@ -156,7 +156,6 @@ def get_outcome_type_graph(animal_types):  # dummy argument
     temp['Visit'] = 1
     temp = temp.groupby(
         ['Month', 'outcome_type', 'outcome_subtype']).sum().reset_index()
-    print(temp)
     fig = px.area(
         temp, x='Month', y='Visit', color='outcome_type', line_group='outcome_subtype'
     )
